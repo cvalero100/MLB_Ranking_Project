@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "j7K+HtLSa9uJyg3EnExFYbk/QDWERjgGBhzmyi3n/hL8rOG2uMjcSRaYA7f4ETi9YX9kYbTR+jRWzebkNQ2FXQ==",
+  "success": true,
+  "projectFilePath": "/Users/valero/projects/MLB_Ranking_Test/MLB_Ranking_Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/valero/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/valero/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/microsoft.testplatform.objectmodel/17.8.0/microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/microsoft.testplatform.testhost/17.8.0/microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/Users/valero/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/valero/.nuget/packages/nuget.frameworks/6.5.0/nuget.frameworks.6.5.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/nunit.analyzers/3.9.0/nunit.analyzers.3.9.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/system.configuration.configurationmanager/8.0.0/system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/system.diagnostics.eventlog/8.0.0/system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/valero/.nuget/packages/system.security.cryptography.protecteddata/8.0.0/system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
