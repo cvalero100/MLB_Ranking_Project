@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MLB_Ranking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68ee7c760815b82d157669250977f58ab2ec21d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MLB_Ranking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MLB_Ranking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
