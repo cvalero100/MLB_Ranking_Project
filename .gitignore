@@ -1,2 +1,4 @@
-/.DS_Store
 /MLB_Ranking.code-workspace
+.DS_Store
+MLB_Ranking/bin/*
+MLB_Ranking/obj/*
